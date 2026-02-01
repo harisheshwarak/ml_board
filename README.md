@@ -1,5 +1,5 @@
 
-# 📊 Machine Learning Model Evaluation Dashboard
+# Machine Learning Model Evaluation Dashboard
 
 This project is an interactive **Streamlit application** that performs **feature selection**, trains **multiple machine learning classification models**, evaluates them using standard metrics, and visualizes the results in a clean dashboard.
 
