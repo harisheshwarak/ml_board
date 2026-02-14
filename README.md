@@ -3,8 +3,11 @@ Machine Learning Model Evaluation Dashboard
 This project is an interactive **Streamlit application** that performs **feature selection**, trains **multiple machine learning classification models**, evaluates them using standard metrics, and visualizes the results in a clean dashboard.
 
 The dataset used is a **student placement dataset**, and the goal is to compare different ML models on their ability to predict placement outcomes.
+
 Total number of sample: 5000
+
 Total number of features: 25
+
 Independent Features: 'Student_ID', 'gender', 'branch', 'cgpa', 'tenth_percentage',
        'twelfth_percentage', 'backlogs', 'study_hours_per_day',
        'attendance_percentage', 'projects_completed', 'internships_completed',
@@ -13,13 +16,13 @@ Independent Features: 'Student_ID', 'gender', 'branch', 'cgpa', 'tenth_percentag
        'certifications_count', 'sleep_hours', 'stress_level', 'part_time_job',
        'family_income_level', 'city_tier', 'internet_access',
        'extracurricular_involvement', 'placement_status', 'salary_lpa']
+
 Dependent Feature: 'placement_status'
 
 Number of features selected: 12 ['cgpa', 'tenth_percentage', 'twelfth_percentage', 'backlogs', 'study_hours_per_day', 'projects_completed', 'internships_completed', 'coding_skill_rating', 'communication_skill_rating', 'aptitude_skill_rating', 'hackathons_participated','certifications_count']
 
 Number of train set: 4000
 Number of test set: 1000
-
 
 ## Features
 
