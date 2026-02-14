@@ -118,6 +118,11 @@ def train_and_test(model_dict, X_train, X_test, y_train, y_test):
 Evaluation metric:
 <img width="1045" height="173" alt="image" src="https://github.com/user-attachments/assets/4b13842f-8501-4429-af41-68aa800fe359" />
 
+-------------------------------------------------
+
+Observations:
+<img width="798" height="602" alt="image" src="https://github.com/user-attachments/assets/5be71f7c-1bec-46bf-aa5b-8d7740635a13" />
+
 ---
 
 ## Running the Streamlit App
