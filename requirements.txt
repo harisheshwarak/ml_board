@@ -1,5 +1,5 @@
-streamlit
-pandas
-plotly
-scikit-learn
-xgboost
+streamlit==1.45.1
+pandas==2.2.3
+plotly==5.24.1
+scikit-learn==1.6.1
+xgboost==3.1.3
