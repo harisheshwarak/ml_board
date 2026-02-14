@@ -115,6 +115,9 @@ def train_and_test(model_dict, X_train, X_test, y_train, y_test):
     df_master = pd.concat(df_result).reset_index(drop=True)
     return df_master
 ```
+Evaluation metric:
+<img width="1045" height="173" alt="image" src="https://github.com/user-attachments/assets/4b13842f-8501-4429-af41-68aa800fe359" />
+<img width="1045" height="173" alt="image" src="https://github.com/user-attachments/assets/4b13842f-8501-4429-af41-68aa800fe359" />
 
 ---
 
